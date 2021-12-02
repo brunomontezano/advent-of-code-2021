@@ -1,0 +1,16 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# My solutions for Advent of Code 2021
+
+As the title says. All the solutions were made with R scripts.
